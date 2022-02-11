@@ -1,2 +1,2 @@
 # boutique_app
-NodeJs, NextJs, MongoDB 
+NodeJs, NextJs, MongoDB , Material UI
